@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew 👋
 
-I am passionate about crafting seamless and user-friendly mobile experiences. With expertise in a variety of technologies, including TypeScript, Swift, React Native, and SwiftUI, I've dedicated myself to delivering high-quality, performant, and visually appealing mobile applications.
+I am purposely driven about crafting seamless and user-friendly mobile experiences. With expertise in a variety of technologies, including TypeScript, Swift, React Native, and SwiftUI, I've dedicated myself to delivering high-quality, performant, and visually appealing mobile applications.
 
 <!--
 **andrewgilliland/andrewgilliland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
