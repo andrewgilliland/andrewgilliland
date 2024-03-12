@@ -1,4 +1,5 @@
-### Hi, I'm Andrew 👋
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)">Howdy, I'm Andrew!</h1>
 
 I am purposely driven about crafting seamless and user-friendly mobile experiences. With expertise in a variety of technologies, including TypeScript, Swift, React Native, and SwiftUI, I've dedicated myself to delivering high-quality, performant, and visually appealing mobile applications.
 
