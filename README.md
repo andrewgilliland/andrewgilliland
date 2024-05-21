@@ -8,4 +8,4 @@
   </kbd>
 </p>
 
-I am purposely driven about crafting seamless and user-friendly digital experiences. With expertise in a variety of technologies, including JavaScript, Swift, React, React Native, and SwiftUI, I've dedicated myself to delivering high-quality, performant, and visually appealing web and mobile applications.
+I am a community taught full stack developer. With expertise in a variety of technologies, including JavaScript, Swift, React, React Native, and SwiftUI, I've dedicated myself to delivering high-quality, performant, and visually appealing web and mobile applications.
